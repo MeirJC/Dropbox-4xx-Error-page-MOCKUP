@@ -1,0 +1,46 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: rgba(0, 0, 0, 0.75);
+    text-align: center;
+}
+
+/* Image */
+#image {
+    width: 300px;
+    margin: 40px auto 0;
+}
+
+/*  Error message ssection */
+#error-text h1 {
+    font-weight: lighter;
+    font-size: 38px;
+    margin: 10px auto 0;
+    line-height: 47px;
+
+}
+
+#error-text h3 {
+    font-weight: lighter;
+    font-size: 21px;
+}
+
+/* Links Section */
+#error-links {
+    margin-top: 3rem;
+}
+
+#error-links {
+    margin-top: 48px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+#error-links a {
+    display: block;
+    margin: 10px auto;
+    text-decoration: none;
+    color: #005ff8;
+    margin: 0.9rem;
+    font-weight: 600;
+    font-size: 14px;
+}
